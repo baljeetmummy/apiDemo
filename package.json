@@ -29,7 +29,7 @@
     "body-parser": "^1.18.3",
     "generate-password": "^1.4.0",
     "geoip-lite": "^1.1.6",
-    "mathjs": "^1.7.1",
+    "mathjs": "^6.2.5",
     "md5": "^2.0.0",
     "nodemon": "^1.17.5",
     "password-hash": "^1.2.2",
